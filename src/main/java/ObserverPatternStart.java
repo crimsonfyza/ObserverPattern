@@ -1,4 +1,4 @@
-public class ObserverPatternTest {
+public class ObserverPatternStart {
 
     public static void main(String[] args) {
         //create subject
